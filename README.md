@@ -1,8 +1,6 @@
 # Champion-island-R36s-Port
 The long awaited port of champion island for the R36S!
 
-# Google Doodle Champion Island Games — R36S Port
-
 A standalone offline port of **Google Doodle Champion Island Games** for the **R36S** handheld running **ArkOS / ArkOS4Clone**.
 
 The game runs locally using a bundled **QtWebEngine/Chromium browser** and a local HTTP server, with controller support adapted for the R36S.
