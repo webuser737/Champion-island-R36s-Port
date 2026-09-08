@@ -110,15 +110,15 @@ and loads the R36S Mali GBM libraries before the system graphics libraries.
 
 Original game:
 
-**Google — Doodle Champion Island Games**
+**Gameblabla + Google — Doodle Champion Island Games https://github.com/gameblabla/doodle-champion-island-games-Google**
 
 Browser/acceleration work:
 
-**chr15m / web-game-console**
+**chr15m / web-game-console https://github.com/chr15m/web-game-console**
 
 R36S porting and controller integration:
 
-**techygames**
+**techygames + chatGPT**
 
 ## Disclaimer
 
