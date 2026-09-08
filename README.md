@@ -29,7 +29,6 @@ Tested on:
 * Mali-G31 MP2
 * 1 GB RAM
 * ArkOS / ArkOS4Clone
-* 720×720 display
 
 ## Installation
 
