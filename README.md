@@ -118,7 +118,7 @@ Browser/acceleration work:
 
 R36S porting and controller integration:
 
-**techygames + chatGPT**
+**techygames(webuser737) + chatGPT**
 
 ## Disclaimer
 
