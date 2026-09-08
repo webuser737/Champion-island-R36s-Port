@@ -24,11 +24,11 @@ The game runs locally using a bundled **QtWebEngine/Chromium browser** and a loc
 
 Tested on:
 
-* **R36S**
+* **R36S Panel 4**
 * Rockchip RK3326
 * Mali-G31 MP2
 * 1 GB RAM
-* ArkOS / ArkOS4Clone
+* ArkOS4Clone
 
 ## Installation
 
